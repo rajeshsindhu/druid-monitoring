@@ -13,7 +13,7 @@ Use case:
 
 # How to run 
 
-`go run server.go -druidEndPoint http://druid-a-broker-1.us-east-1.applifier.info:8080 -dataLagDs iap_verified_transaction_events_rt,ads_events_rt,iap_events_promo -nullDimDs ads_events/day`
+`go run server.go -druidEndPoint http://druid-broker-node:8080 -dataLagDs iap_verified_transaction_events_rt,ads_events_rt,iap_events_promo -nullDimDs ads_events/day`
 
 Optional parameters
 

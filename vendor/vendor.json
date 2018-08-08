@@ -1,49 +1,6 @@
 {
 	"comment": "",
 	"ignore": "test",
-	"package": [
-		{
-			"checksumSHA1": "31uayhk0ab1tIsAfN9rnl1aef5E=",
-			"path": "github.com/DataDog/datadog-go/statsd",
-			"revision": "1db03a3cc56bf5b5b80de306274c7b8f8eb6abfa",
-			"revisionTime": "2018-02-16T12:46:41Z"
-		},
-		{
-			"checksumSHA1": "XvksuL2T+U/JaUpiHMV+fYXrrQU=",
-			"path": "github.com/caarlos0/env",
-			"revision": "9b2b3076ca0cbc3cf9587a990befcd1306a8ae34",
-			"revisionTime": "2018-03-16T12:55:29Z"
-		},
-		{
-			"checksumSHA1": "HmbftipkadrLlCfzzVQ+iFHbl6g=",
-			"path": "github.com/golang/glog",
-			"revision": "23def4e6c14b4da8ac2ed8007337bc5eb5007998",
-			"revisionTime": "2016-01-25T20:49:56Z"
-		},
-		{
-			"checksumSHA1": "Epx/Fewr0QrXZRdg26+97oIoV2k=",
-			"path": "github.com/jasonlvhit/gocron",
-			"revision": "42a5804d37aa0b9239b265e894a16b8edbf52d54",
-			"revisionTime": "2016-06-29T18:10:17Z"
-		},
-		{
-			"checksumSHA1": "8Pvinvm5aYvtPp0wOC99w5uNxOA=",
-			"path": "gitlab.internal.unity3d.com/ads/data-eng/druid-monitoring/dimensions",
-			"revision": "2d2ac8150a075c7fa9544a69605b909429ece0d3",
-			"revisionTime": "2018-01-08T21:37:31Z"
-		},
-		{
-			"checksumSHA1": "SWjFg3j1fMDN3qHmz1Ic9EQPmXI=",
-			"path": "gitlab.internal.unity3d.com/ads/data-eng/druid-monitoring/timestamp",
-			"revision": "2d2ac8150a075c7fa9544a69605b909429ece0d3",
-			"revisionTime": "2018-01-08T21:37:31Z"
-		},
-		{
-			"checksumSHA1": "3evwxJMHMWTqDXGFJ+RfdAoClX0=",
-			"path": "gitlab.internal.unity3d.com/ads/data-eng/druid-monitoring/util",
-			"revision": "2d2ac8150a075c7fa9544a69605b909429ece0d3",
-			"revisionTime": "2018-01-08T21:37:31Z"
-		}
-	],
+	"package": [],
 	"rootPath": "druid-monitoring"
 }

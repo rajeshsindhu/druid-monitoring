@@ -12,10 +12,10 @@ import (
 
 const timeFormat = "2006-01-02T15:04:05.999Z"
 
-func GetTimeRange(latestTime int64,  granularity string) (string, string) {
+func GetTimeRange(latestTime int64, granularity string) (string, string) {
 
 	startTime := int64(0)
-	switch gran :=  granularity; gran {
+	switch gran := granularity; gran {
 	case "day":
 		startTime = latestTime - 86400
 	case "hour":

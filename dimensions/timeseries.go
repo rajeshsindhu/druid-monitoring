@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/golang/glog"
-	"gitlab.internal.unity3d.com/ads/data-eng/druid-monitoring/util"
+	"github.com/rajeshsindhu/druid-monitoring/util"
 )
 
 func generateTimeseriesQuery(datasource string, startTime string, endTime string, granularity string, dimension string, filterKey string, filterValue string) string {

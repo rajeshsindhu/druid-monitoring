@@ -3,7 +3,7 @@ package timestamp
 import (
 	"encoding/json"
 	"github.com/golang/glog"
-	"gitlab.internal.unity3d.com/ads/data-eng/druid-monitoring/util"
+	"github.com/rajeshsindhu/druid-monitoring/util"
 	"time"
 )
 

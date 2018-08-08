@@ -1,14 +1,14 @@
 package main
 
 import (
+	"github.com/rajeshsindhu/druid-monitoring/dimensions"
+	"github.com/rajeshsindhu/druid-monitoring/timestamp"
 	"flag"
 	"fmt"
 	"github.com/DataDog/datadog-go/statsd"
 	"github.com/caarlos0/env"
 	"github.com/golang/glog"
 	"github.com/jasonlvhit/gocron"
-	"gitlab.internal.unity3d.com/ads/data-eng/druid-monitoring/dimensions"
-	"gitlab.internal.unity3d.com/ads/data-eng/druid-monitoring/timestamp"
 	"strings"
 	"time"
 )
